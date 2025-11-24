@@ -1,0 +1,9 @@
+
+# Archivos temporales
+*.log
+*.tmp
+cache/
+.env
+.vscode/
+
+
