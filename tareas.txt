@@ -1,0 +1,12 @@
+📌 TAREAS PENDIENTES
+1. Integrar sistema de notificaciones
+2. Mejorar diseño de interfaz principal
+3. Optimizar tiempos de carga
+
+✅ TAREAS REALIZADAS
+4. Implementar sistema de login
+5. Crear estructura del dashboard
+
+⛔ TAREAS BLOQUEADAS
+6. Integración con sistema de pagos externo
+7. Conexión con API de terceros
