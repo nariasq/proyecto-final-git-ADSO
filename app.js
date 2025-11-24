@@ -1,4 +1,10 @@
 /*
+ feature/footer
+  Rama: feature/footer
+  Fecha: 2025-11-24
+  Descripción: Aquí irá el código del footer.
+*/
+
 feature/dashboard
   Rama: feature/dashboard
   Fecha: 24/11/2025
@@ -10,4 +16,5 @@ console.log("Dashboard cargado correctamente");
   Fecha: 24/11/2025
   Descripción: Aquí irá el código de la funcionalidad de login.
 */
+main
 main
