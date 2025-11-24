@@ -87,3 +87,14 @@ Git es una herramienta fundamental para desarrolladores y proyectos colaborativo
 Hoy aprendí a usar Git para subir proyectos a GitHub, comprender cómo funcionan los commits, cómo conectar un repositorio local con uno remoto y cómo verificar si los cambios se guardan correctamente.  
 Git es una herramienta esencial para el desarrollo de software y trabajar con orden y respaldo.
 
+## 🧠 Problemas del día
+Durante el desarrollo tuve conflictos al hacer merge entre ramas, especialmente cuando modificaba los mismos archivos en distintas ramas.
+
+## 📚 ¿Qué aprendí hoy?
+Aprendí a trabajar con ramas, resolver conflictos, usar .gitignore, crear Pull Requests y aplicar un flujo similar al profesional.
+
+## 🧩 ¿Qué fue lo más difícil?
+Resolver los conflictos de merge fue lo más complicado, especialmente entender las diferencias entre HEAD y main.
+
+## ✅ Conclusión del taller
+Este taller me permitió entender cómo se maneja Git en entornos reales de trabajo colaborativo y cómo solucionar problemas comunes.
